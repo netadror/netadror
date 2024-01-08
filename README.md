@@ -1,4 +1,4 @@
-# Hello, World! 👋
+# Hello 👋
 I'm Neta, a Full-stack Developer and Ex. product and marketing. In just 9 months, I taught myself how to code and have since built impactful web applications for clients. I am passionate about tech, learning, and leveraging my unique combination of skills to create market-ready, user-friendly digital products.
 
 <img width="220" alt="cats" src="https://github.com/netadror/netadror/assets/118823025/59c8a547-a5b5-4f6a-b35f-7231d312e091">
