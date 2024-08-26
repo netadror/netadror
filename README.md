@@ -1,7 +1,7 @@
 # Hello 👋
 I'm Neta, a Full-stack Developer and Ex. product and marketing. In just 9 months, I taught myself how to code and have since built impactful web applications for clients. I am passionate about tech, learning, and leveraging my unique combination of skills to create market-ready, user-friendly digital products.
 
-<img width="220" alt="cats" src="https://github.com/netadror/netadror/assets/118823025/59c8a547-a5b5-4f6a-b35f-7231d312e091">
+<img width="200" alt="cat" src="https://github.com/netadror/netadror/assets/118823025/59c8a547-a5b5-4f6a-b35f-7231d312e091">
 
 ## 🚀 My Projects
 ### Project 1: Training Software for a Business Intelligence Company
@@ -9,22 +9,23 @@ I'm Neta, a Full-stack Developer and Ex. product and marketing. In just 9 months
    - Wrote the work plan
    - Planned UI & designed app screens
    - Development with React.js and Firebase
-   
+   - [link](https://www.tinokys.com/)
+
+<img width="400" alt="tinokys" src="https://github.com/user-attachments/assets/c423d1dd-06f0-4ba4-92c0-1845df03d2ae">
+
 ### Project 2: Educational & Organizational Application for Dutch Government Contractors
    - Spearheaded product requirement discussions with client
    - Crafted detailed work plan & UI designs
    - Developed a multi-tenant platform with React.js and Firebase
+   - [link](https://www.mdtportaal.nl/)
 
-<img width="500" alt="app1" src="https://github.com/netadror/netadror/assets/118823025/a7e1f3a2-2cfe-451e-b5e0-b8dd3319d005">
-<img width="500" alt="app2" src="https://github.com/netadror/netadror/assets/118823025/e3538b1e-50cd-4f84-bd19-41dadc998bce">
+<img width="400" alt="mdtportal" src="https://github.com/user-attachments/assets/b5b493c2-7971-49a3-bd1e-6ad916030a42">
 
-https://www.mdtportaal.nl/
-   
 ### Project 3 (In Progress): Photography Manipulation B2C Application
    - Integrating Image Processing AI model
    - Full-stack development & UI/UX design
 
-### Rest of the projects here (and public repos) were all build as part of my learning journey and are not real-world products like the other 3.
+### Rest of the projects here (and public repos) were all build as part of my learning journey and are not real-world products like the other
 
 ## 🔧 Tech Stack
    - HTML, CSS
