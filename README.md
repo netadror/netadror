@@ -44,5 +44,5 @@ With 10+ years in tech, as a Marketing Manager and Product Manager, I bring:
 ## 🤝 Let's Connect!
    - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/netadror/), [website](https://hadigitalit.com)
    - 🌱 I'm continuously learning and growing my skillset
-   - ⚡ Fun fact: [I'm also a photographer!](www.netadror.com)
+   - ⚡ Fun fact: [I'm also a photographer!](https://www.netadror.com)
    - 💬 Happy to chat about web development, tech, and the history of computers ^_^
