@@ -19,11 +19,15 @@ I'm Neta, a Full-stack Developer and Ex. product and marketing. In just 4 months
    - Developed a multi-tenant platform with React.js and Firebase
    - [link](https://www.mdtportaal.nl/)
 
-<img width="400" alt="mdtportal" src="https://github.com/user-attachments/assets/b5b493c2-7971-49a3-bd1e-6ad916030a42">
+<img width="400" alt="mdtportal" src="https://github.com/user-attachments/assets/4cdec3ca-efc8-4869-af09-4fa2623855f5" />
 
-### Project 3 (In Progress): AI-powered B2C SaaS in product marketing
+### Project 3 (In Beta): AI-powered B2C SaaS in product marketing
    - Integrating a few AI models
    - Full-stack development & UI/UX design
+   - [link](https://optimizebear.com/)
+
+<img width="400" alt="optimize bear" src="https://github.com/user-attachments/assets/9aa3427f-e6ae-43c5-a9cb-363d542ed92c" />
+
 
 ### Rest of the projects here (and public repos) were all build as part of my learning journey and are not real-world products like the other
 
